@@ -1,4 +1,4 @@
-## Hey there 👋 I'm @RadPlayzDEV, a almost-fullstack developer and a epic gamer
+Hey there 👋 I'm @RadPlayzDEV, a almost-fullstack developer and a epic gamer
 
 
 <!---
